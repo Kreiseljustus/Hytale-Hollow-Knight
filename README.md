@@ -1,10 +1,7 @@
-# Hytale Plugin Template
+# Hytale Hollow Knight
 
-A template for Hytale java plugins. Created by [Up](https://github.com/UpcraftLP), and slightly modified by Kaupenjoe. 
+Simple Hytale plugin that tried to add some bosses from Hollow Knight and other decor from the game
 
-### Configuring the Template
-If you for example installed the game in a non-standard location, you will need to tell the project about that.
-The recommended way is to create a file at `%USERPROFILE%/.gradle/gradle.properties` to set these properties globally.
 
 ```properties
 # Set a custom game install location
