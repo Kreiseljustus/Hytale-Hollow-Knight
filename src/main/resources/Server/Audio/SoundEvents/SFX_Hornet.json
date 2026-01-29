@@ -1,0 +1,28 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Blocks/Building/hornet-shaw.ogg",
+        "Sounds/Blocks/Building/hornet-hekale.ogg",
+        "Sounds/Blocks/Building/hornet-haaaa.ogg",
+        "Sounds/Blocks/Building/hornet-git-gud.ogg",
+        "Sounds/Blocks/Building/hornet-garama.ogg",
+        "Sounds/Blocks/Building/hornet-edino.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": 0,
+        "MaxPitch": 0
+      },
+      "Volume": 6.0
+    },
+    {
+      "Files": [
+        "Sounds/Weapons/Item/Kweebec_Plushie/Kweebec_Plushie_Impact_01.ogg",
+        "Sounds/Weapons/Item/Kweebec_Plushie/Kweebec_Plushie_Impact_02.ogg"
+      ],
+      "Volume": -100
+    }
+  ],
+  "Volume": -3.0980391997148637,
+  "Parent": "SFX_Attn_Quiet"
+}

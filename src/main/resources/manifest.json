@@ -1,6 +1,6 @@
 {
   "Group": "${plugin_group}",
-  "Name": "${plugin_name}",
+  "Name": "Crisels Hollow Knight",
   "Version": "${plugin_version}",
   "Description": "${plugin_description}",
   "Authors": [
